@@ -135,22 +135,22 @@ export class HomeComponent implements OnInit {
     },
     'list': [
       {
-        'video_url': 'https://www.youtube.com/embed/0SZHvRSJwyc?rel=0',
-        'description': 'Distracted Driver use-case',
+        'video_url': 'https://www.youtube.com/embed/3Tqe8NlcJQg?rel=0',
+        'description': 'AutoML',
         'subheading': 'Use Cases',
-        'id': `0SZHvRSJwyc`
+        'id': `3Tqe8NlcJQg`
       },
       {
-        'video_url': 'https://www.youtube.com/embed/6RUJ0Nk52u8?rel=0',
-        'description': 'ML Workbench - AutoML',
+        'video_url': 'https://www.youtube.com/embed/ZA_wWH5uml4?rel=0',
+        'description': 'Deep Network Models',
         'subheading': 'Use Cases',
-        'id': `6RUJ0Nk52u8`
+        'id': `ZA_wWH5uml4`
       },
       {
-        'video_url': 'https://www.youtube.com/embed/_YCGPhMETF4?rel=0',
-        'description': 'Import data from Cumulocity',
+        'video_url': 'https://www.youtube.com/embed/Qswag4lTloQ?rel=0',
+        'description': 'Data import from Cumulocity',
         'subheading': 'Use Cases',
-        'id': `_YCGPhMETF4`
+        'id': `Qswag4lTloQ`
       }
     ]
   };
